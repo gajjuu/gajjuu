@@ -6,7 +6,7 @@
 
 <table width="100%">
   <tr>
-    <!-- LEFT COLUMN: About Me -->
+    <!-- LEFT COLUMN: ABOUT ME -->
     <td width="65%" valign="top" style="padding-right:20px;">
 <h2 style="margin:0 0 10px 0; font-weight:900;">💫 About Me</h2>
 
@@ -32,14 +32,20 @@
     </td>
     <td width="35%" valign="top" align="center" style="padding-left:20px;">
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z0OW03Z292czRuY3AzbDQxeGF6dm5lZ2xiZndneHQxZGRyYXM4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif"
-           alt="Coding Animation" width="280" style="border-radius:8px;"/>
-    </td>
+           width="240" style="margin-bottom:15px; border-radius:8px;" />
+
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJjbDM1MHdnOHAxN2NxYjlmeWtxZDd2Y2x2amxyeTJtZGxsaW8xbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O7x8QN7gMcsAxX8v2z/giphy.gif"
+           width="240" style="margin-bottom:15px; border-radius:8px;" />
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmVxanlqanA5OXR4ajNodXZ5M29hZHh1bGx1YTdvdGxzOTllMnhpcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif"
+           width="240" style="border-radius:8px;" />
+
+  </td>
   </tr>
 </table>
 
 ---
 
----
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gajendra-gouda-538533255) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Gajendra-Gouda-2) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/gajjuthecreator) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gajendragouda254@gmail.com) 
