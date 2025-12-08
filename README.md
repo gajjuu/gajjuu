@@ -49,11 +49,6 @@
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z0OW03Z292czRuY3AzbDQxeGF6dm5lZ2xiZndneHQxZGRyYXM4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif"
           width="230" alt="Coding Animation" />
     </td>
-    <td width="60%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=gajjuu&theme=buefy&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=gajjuu&theme=buefy&hide_border=false" /><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajjuu&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    </td>
   </tr>
 </table>
 
