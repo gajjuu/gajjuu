@@ -1,5 +1,5 @@
-<h1 align="center" style="font-weight:900; font-size: 3rem;">
-  Hi! 👋 I am <span style="color:#4C8EDA;">Gajendra Gouda</span>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4C8EDA&center=true&vCenter=true&width=600&lines=Hi!+%F0%9F%91%8B+I+am+Gajendra+Gouda" alt="Typing Animation" />
 </h1>
 
 
@@ -18,10 +18,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gajjuu&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gajjuu&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
