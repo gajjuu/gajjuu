@@ -2,8 +2,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4C8EDA&center=true&vCenter=true&width=600&lines=Hi!+%F0%9F%91%8B+I+am+Gajendra+Gouda" alt="Typing Animation" />
 </h1>
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z0OW03Z292czRuY3AzbDQxeGF6dm5lZ2xiZndneHQxZGRyYXM4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif"
+       width="700" alt="Coding Animation"/>
+</p>
 
 <p style="font-size:16px; line-height:1.6;">
+  
+<h2 align="center"><strong>💫 About Me</strong></h2>
 
 <strong>⬩➤ I’m currently working on:</strong><br>
 &nbsp;&nbsp;• Implementing <strong>Azure DevOps OIDC authentication</strong> in OpenTofu’s AzureRM backend.<br>
