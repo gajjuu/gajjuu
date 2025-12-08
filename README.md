@@ -29,7 +29,14 @@
 <strong>⬩➤ Fun fact:</strong><br>
 • I can deploy a microservice faster than I can decide what coffee to order ☕🚀.
 </p>
-    </td>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/files/24042057/Gajendra.s.Resume.pdf">
+    <img src="https://img.shields.io/badge/📄_Resume-4C8EDA?style=for-the-badge&logo=readthedocs&logoColor=white" 
+         width="300" />
+  </a>
+</p>
+
 
   
   <td width="35%" valign="top" align="center" style="padding-left:20px;">
@@ -39,12 +46,6 @@
 
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJjbDM1MHdnOHAxN2NxYjlmeWtxZDd2Y2x2amxyeTJtZGxsaW8xbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O7x8QN7gMcsAxX8v2z/giphy.gif"
            width="240" style="margin-bottom:15px; border-radius:8px;" />
-
-           
-<a href="./Gajendra's%20Resume.pdf">
-  <img src="https://img.shields.io/badge/📄_View_Resume-4C8EDA?style=for-the-badge&logo=readthedocs&logoColor=white" 
-       width="260" />
-</a>
 
 </a>
 
@@ -74,11 +75,12 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gajjuu&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gajjuu&theme=buefy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gajjuu&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=gajjuu&theme=buefy&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gajjuu&theme=buefy&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gajjuu&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
