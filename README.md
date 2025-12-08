@@ -30,33 +30,35 @@
 • I can deploy a microservice faster than I can decide what coffee to order ☕🚀.
 </p>
     </td>
-    <td width="35%" valign="top" align="center" style="padding-left:20px;">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z0OW03Z292czRuY3AzbDQxeGF6dm5lZ2xiZndneHQxZGRyYXM4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif"
+
+  
+  <td width="35%" valign="top" align="center" style="padding-left:20px;">
+
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z0OW03Z292czRuY3AzbDQxeGF6dm5lZ2xiZndneHQxZGRyYXM4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif"
            width="240" style="margin-bottom:15px; border-radius:8px;" />
 
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJjbDM1MHdnOHAxN2NxYjlmeWtxZDd2Y2x2amxyeTJtZGxsaW8xbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O7x8QN7gMcsAxX8v2z/giphy.gif"
            width="240" style="margin-bottom:15px; border-radius:8px;" />
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmVxanlqanA5OXR4ajNodXZ5M29hZHh1bGx1YTdvdGxzOTllMnhpcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif"
+           
+<a href="./Gajendra's%20Resume.pdf">
+  <img src="https://img.shields.io/badge/📄_View_Resume-4C8EDA?style=for-the-badge&logo=readthedocs&logoColor=white" 
+       width="260" />
+</a>
+
+</a>
+
+<a> </a>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRwYmVydDF4NjFqZjJsdnNiM3dvdDhpb2J1eDRiaGdod3lkc3FiaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zyoHg5oFkZ2QnYDjMO/giphy.gif"
+     width="240" style="margin-bottom:15px; border-radius:8px;" />
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmVxanlqanA5OXR4ajNodXZ5M29hZHh1bGx1YTdvdGxzOTllMnhpcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif"
            width="240" style="border-radius:8px;" />
 
   </td>
   </tr>
-
----
-
-## 📄 My Resume
-
-<a href="./Gajendra's Resume.pdf" download>[Gajendra's Resume.pdf](https://github.com/user-attachments/files/24041778/Gajendra.s.Resume.pdf)
-
-
-  <img src="https://img.shields.io/badge/Download%20Resume-4C8EDA?style=for-the-badge&logo=readthedocs&logoColor=white" />
-</a>
-
-<p>
-  You can also view it directly here:  
-  <a href="./Gajendra's Resume.pdf"><strong>📘 View Resume (PDF)</strong></a>
-</p>
+</table>
 
 ---
 
