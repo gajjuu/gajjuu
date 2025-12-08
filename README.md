@@ -42,6 +42,16 @@
 
   </td>
   </tr>
+## 📄 My Resume  
+<a href="./Gajendra's Resume.pdf" download>[Gajendra's Resume.pdf](https://github.com/user-attachments/files/24041731/Gajendra.s.Resume.pdf)
+
+  <img src="https://img.shields.io/badge/Download%20Resume-4C8EDA?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
+
+<p>
+  You can also view it directly here:  
+  <a href="./Gajendra's Resume.pdf"><strong>📘 View Resume (PDF)</strong></a>
+</p>
 </table>
 
 ---
