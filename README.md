@@ -1,6 +1,10 @@
-<h1 align="center" style="font-weight:900; font-size: 3rem;">
-  Hi! 👋 I am <span style="color:#4C8EDA;">Gajendra Gouda</span>
+<h1 align="center">
+  Hi! 👋 I am<br>
+  <span style="background: linear-gradient(90deg, #4C8EDA, #7BC6FF); -webkit-background-clip: text; color: transparent; font-weight: 800;">
+    Gajendra Gouda
+  </span>
 </h1>
+
 
 
 # 💫 About Me:
