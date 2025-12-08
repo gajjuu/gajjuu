@@ -4,15 +4,13 @@
 
 ---
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
+<table width="100%">
+  <tr>
+    <!-- LEFT COLUMN: About Me -->
+    <td width="65%" valign="top" style="padding-right:20px;">
+<h2 style="margin:0 0 10px 0; font-weight:900;">💫 About Me</h2>
 
-<!-- LEFT SIDE (ABOUT ME TEXT) -->
-<div style="width: 60%;">
-
-<h1 style="font-weight:900; font-size:2.3rem;">💫 <strong>About Me</strong></h1>
-
-<p style="font-size:16px; line-height:1.6;">
-
+<p style="font-size:15px; line-height:1.6; margin:0;">
 <strong>⬩➤ I’m currently working on:</strong><br>
 • Implementing <strong>Azure DevOps OIDC authentication</strong> in OpenTofu’s AzureRM backend.<br>
 • Building an <strong>AI/ML-Powered Disaster Recovery & Network Failover Framework</strong>.<br><br>
@@ -29,19 +27,17 @@
 • eBPF Internals & Cloud-Native Observability.<br><br>
 
 <strong>⬩➤ Fun fact:</strong><br>
-• I can deploy a microservice faster than I can decide what coffee to order ☕🚀.<br>
-
+• I can deploy a microservice faster than I can decide what coffee to order ☕🚀.
 </p>
+    </td>
+    <td width="35%" valign="top" align="center" style="padding-left:20px;">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z0OW03Z292czRuY3AzbDQxeGF6dm5lZ2xiZndneHQxZGRyYXM4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif"
+           alt="Coding Animation" width="280" style="border-radius:8px;"/>
+    </td>
+  </tr>
+</table>
 
-</div>
-
-<!-- RIGHT SIDE (GIF) -->
-<div style="width: 35%; text-align:center;">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z0OW03Z292czRuY3AzbDQxeGF6dm5lZ2xiZndneHQxZGRyYXM4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif"
-       alt="Coding Animation" width="260" />
-</div>
-
-</div>
+---
 
 ---
 
