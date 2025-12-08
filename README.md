@@ -46,6 +46,19 @@
 
 ---
 
+## 📄 My Resume  
+<a href="./Gajendra's Resume.pdf" download>[Gajendra's Resume.pdf](https://github.com/user-attachments/files/24041731/Gajendra.s.Resume.pdf)
+
+  <img src="https://img.shields.io/badge/Download%20Resume-4C8EDA?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
+
+<p>
+  You can also view it directly here:  
+  <a href="./Gajendra's Resume.pdf"><strong>📘 View Resume (PDF)</strong></a>
+</p>
+
+---
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gajendra-gouda-538533255) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Gajendra-Gouda-2) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/gajjuthecreator) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gajendragouda254@gmail.com) 
