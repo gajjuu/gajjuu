@@ -4,38 +4,44 @@
 
 ---
 
-# <h1 style="font-weight:900; font-size:2.3rem;">💫 <strong>About Me</strong></h1>
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
+
+<!-- LEFT SIDE (ABOUT ME TEXT) -->
+<div style="width: 60%;">
+
+<h1 style="font-weight:900; font-size:2.3rem;">💫 <strong>About Me</strong></h1>
 
 <p style="font-size:16px; line-height:1.6;">
 
 <strong>⬩➤ I’m currently working on:</strong><br>
-&nbsp;&nbsp;• Implementing <strong>Azure DevOps OIDC authentication</strong> in OpenTofu’s AzureRM backend.<br>
-&nbsp;&nbsp;• Building an <strong>AI/ML-Powered Disaster Recovery & Network Failover Framework</strong>.<br><br>
+• Implementing <strong>Azure DevOps OIDC authentication</strong> in OpenTofu’s AzureRM backend.<br>
+• Building an <strong>AI/ML-Powered Disaster Recovery & Network Failover Framework</strong>.<br><br>
 
 <strong>⬩➤ I’m looking to collaborate on:</strong><br>
-&nbsp;&nbsp;• Cloud & DevOps (Azure/AWS, CI/CD, Kubernetes, Terraform).<br>
-&nbsp;&nbsp;• Network Automation (Ansible, Arista, Python for NetOps).<br>
-&nbsp;&nbsp;• Blockchain projects (NFTs, Smart Contracts).<br><br>
+• Cloud & DevOps (Azure/AWS, CI/CD, Kubernetes, Terraform).<br>
+• Network Automation (Ansible, Arista, Python for NetOps).<br>
+• Blockchain projects (NFTs, Smart Contracts).<br><br>
 
 <strong>⬩➤ I’m currently learning:</strong><br>
-&nbsp;&nbsp;• Advanced Azure & AWS Cloud Infrastructure Design.<br>
-&nbsp;&nbsp;• Kubernetes & Terraform Automation at Scale.<br>
-&nbsp;&nbsp;• Smart Contract Development & Decentralized App Security.<br>
-&nbsp;&nbsp;• eBPF Internals & Cloud-Native Observability.<br><br>
+• Advanced Azure & AWS Cloud Infrastructure Design.<br>
+• Kubernetes & Terraform Automation at Scale.<br>
+• Smart Contract Development & Decentralized App Security.<br>
+• eBPF Internals & Cloud-Native Observability.<br><br>
 
 <strong>⬩➤ Fun fact:</strong><br>
-&nbsp;&nbsp;• I can deploy a microservice faster than I can decide what coffee to order ☕🚀.<br>
+• I can deploy a microservice faster than I can decide what coffee to order ☕🚀.<br>
 
 </p>
 
-<table>
-  <tr>
-    <td width="40%" align="center">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z0OW03Z292czRuY3AzbDQxeGF6dm5lZ2xiZndneHQxZGRyYXM4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif"
-          width="230" alt="Coding Animation" />
-    </td>
-  </tr>
-</table>
+</div>
+
+<!-- RIGHT SIDE (GIF) -->
+<div style="width: 35%; text-align:center;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z0OW03Z292czRuY3AzbDQxeGF6dm5lZ2xiZndneHQxZGRyYXM4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif"
+       alt="Coding Animation" width="260" />
+</div>
+
+</div>
 
 ---
 
