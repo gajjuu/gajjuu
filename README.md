@@ -4,29 +4,40 @@
 
 ---
 
-# <h1 style="font-weight:900; font-size:2.3rem;">💫 <strong>About Me</strong></h1>
+<table>
+  <tr>
+
+    <td width="60%" valign="top">
+
+<h1 style="font-weight:900; font-size:2.3rem;">💫 <strong>About Me</strong></h1>
 
 <p style="font-size:16px; line-height:1.6;">
 
 <strong>⬩➤ I’m currently working on:</strong><br>
-&nbsp;&nbsp;• Implementing <strong>Azure DevOps OIDC authentication</strong> in OpenTofu’s AzureRM backend.<br>
-&nbsp;&nbsp;• Building an <strong>AI/ML-Powered Disaster Recovery & Network Failover Framework</strong>.<br><br>
+• Implementing <strong>Azure DevOps OIDC authentication</strong> in OpenTofu’s AzureRM backend.<br>
+• Building an <strong>AI/ML-Powered Disaster Recovery & Network Failover Framework</strong>.<br><br>
 
 <strong>⬩➤ I’m looking to collaborate on:</strong><br>
-&nbsp;&nbsp;• Cloud & DevOps (Azure/AWS, CI/CD, Kubernetes, Terraform).<br>
-&nbsp;&nbsp;• Network Automation (Ansible, Arista, Python for NetOps).<br>
-&nbsp;&nbsp;• Blockchain projects (NFTs, Smart Contracts).<br><br>
+• Cloud & DevOps (Azure/AWS, CI/CD, Kubernetes, Terraform).<br>
+• Network Automation (Ansible, Arista, Python for NetOps).<br>
+• Blockchain projects (NFTs, Smart Contracts).<br><br>
 
 <strong>⬩➤ I’m currently learning:</strong><br>
-&nbsp;&nbsp;• Advanced Azure & AWS Cloud Infrastructure Design.<br>
-&nbsp;&nbsp;• Kubernetes & Terraform Automation at Scale.<br>
-&nbsp;&nbsp;• Smart Contract Development & Decentralized App Security.<br>
-&nbsp;&nbsp;• eBPF Internals & Cloud-Native Observability.<br><br>
+• Advanced Azure & AWS Cloud Infrastructure Design.<br>
+• Kubernetes & Terraform Automation at Scale.<br>
+• Smart Contract Development & Decentralized App Security.<br>
+• eBPF Internals & Cloud-Native Observability.<br><br>
 
 <strong>⬩➤ Fun fact:</strong><br>
-&nbsp;&nbsp;• I can deploy a microservice faster than I can decide what coffee to order ☕🚀.<br>
+• I can deploy a microservice faster than I can decide what coffee to order ☕🚀.<br>
 
 </p>
+
+  </tr>
+</table>
+
+---
+
 
 ---
 ## 🌐 Socials:
