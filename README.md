@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-
+    <!-- LEFT COLUMN : ABOUT ME -->
     <td width="60%" valign="top">
 
 <h1 style="font-weight:900; font-size:2.3rem;">💫 <strong>About Me</strong></h1>
@@ -33,13 +33,20 @@
 
 </p>
 
-  </tr>
+</td>
+
+    <!-- RIGHT COLUMN : GIF -->
+<td width="40%" align="center" valign="top">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Z0OW03Z292czRuY3AzbDQxeGF6dm5lZ2xiZndneHQxZGRyYXM4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif"
+           width="300" alt="Coding Animation"/>
+</td>
+</tr>
 </table>
 
 ---
 
-
 ---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gajendra-gouda-538533255) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Gajendra-Gouda-2) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/gajjuthecreator) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gajendragouda254@gmail.com) 
 
