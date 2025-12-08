@@ -1,4 +1,7 @@
-<h1 align="center">Hi! 👋 I am <span style="color:#4C8EDA;">Gajendra Gouda</span></h1>
+<h1 align="center" style="font-weight:900; font-size: 3rem;">
+  Hi! 👋 I am <span style="color:#4C8EDA;">Gajendra Gouda</span>
+</h1>
+
 
 # 💫 About Me:
 ⬩➤I’m currently working on:<br>▸Implementing Azure DevOps OIDC authentication in OpenTofu’s AzureRM backend.<br>▸AI/ML-Powered Disaster Recovery & Network Failover Framework.<br>⬩➤I’m looking to collaborate on:<br>▸Cloud & DevOps (Azure/AWS, CI/CD, Kubernetes, Terraform).<br>▸Network automation (Ansible, Arista, Python for NetOps).<br>▸Blockchain projects (NFTs, smart contracts).<br>⬩➤I’m currently learning:<br>▸Advanced Azure & AWS Cloud infrastructure design.<br>▸Kubernetes and Terraform automation at scale.<br>▸Smart contract development and decentralized app security.<br>▸eBPF internals and cloud-native observability.<br>⬩➤Fun fact:<br>⬩I can deploy a microservice faster than I can decide what coffee to order ☕🚀.
@@ -13,6 +16,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=gajjuu&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=gajjuu&theme=buefy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gajjuu&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=gajjuu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gajjuu&icon=0&color=5)](https://visitcount.itsvg.in)
