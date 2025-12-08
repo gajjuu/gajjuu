@@ -3,8 +3,28 @@
 </h1>
 
 
-# 💫 About Me:
-⬩➤I’m currently working on:<br>▸Implementing Azure DevOps OIDC authentication in OpenTofu’s AzureRM backend.<br>▸AI/ML-Powered Disaster Recovery & Network Failover Framework.<br>⬩➤I’m looking to collaborate on:<br>▸Cloud & DevOps (Azure/AWS, CI/CD, Kubernetes, Terraform).<br>▸Network automation (Ansible, Arista, Python for NetOps).<br>▸Blockchain projects (NFTs, smart contracts).<br>⬩➤I’m currently learning:<br>▸Advanced Azure & AWS Cloud infrastructure design.<br>▸Kubernetes and Terraform automation at scale.<br>▸Smart contract development and decentralized app security.<br>▸eBPF internals and cloud-native observability.<br>⬩➤Fun fact:<br>⬩I can deploy a microservice faster than I can decide what coffee to order ☕🚀.
+<p style="font-size:16px; line-height:1.6;">
+
+<strong>⬩➤ I’m currently working on:</strong><br>
+&nbsp;&nbsp;• Implementing <strong>Azure DevOps OIDC authentication</strong> in OpenTofu’s AzureRM backend.<br>
+&nbsp;&nbsp;• Building an <strong>AI/ML-Powered Disaster Recovery & Network Failover Framework</strong>.<br><br>
+
+<strong>⬩➤ I’m looking to collaborate on:</strong><br>
+&nbsp;&nbsp;• Cloud & DevOps (Azure/AWS, CI/CD, Kubernetes, Terraform).<br>
+&nbsp;&nbsp;• Network Automation (Ansible, Arista, Python for NetOps).<br>
+&nbsp;&nbsp;• Blockchain projects (NFTs, Smart Contracts).<br><br>
+
+<strong>⬩➤ I’m currently learning:</strong><br>
+&nbsp;&nbsp;• Advanced Azure & AWS Cloud Infrastructure Design.<br>
+&nbsp;&nbsp;• Kubernetes & Terraform Automation at Scale.<br>
+&nbsp;&nbsp;• Smart Contract Development & Decentralized App Security.<br>
+&nbsp;&nbsp;• eBPF Internals & Cloud-Native Observability.<br><br>
+
+<strong>⬩➤ Fun fact:</strong><br>
+&nbsp;&nbsp;• I can deploy a microservice faster than I can decide what coffee to order ☕🚀.<br>
+
+</p>
+
 
 
 ## 🌐 Socials:
