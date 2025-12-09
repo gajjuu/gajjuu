@@ -8,7 +8,7 @@
   <tr>
     <!-- LEFT COLUMN: ABOUT ME -->
     <td width="65%" valign="top" style="padding-right:20px;">
-<h2 style="margin:0 0 10px 0; font-weight:900;"> About Me</h2>
+<h2 style="margin:0 0 10px 0; font-weight:900;"> About Me:</h2>
 
 <p style="font-size:15px; line-height:1.6; margin:0;">
 <strong>⬩➤ I’m currently working on:</strong><br>
@@ -81,7 +81,7 @@
 
 ---
 
-### Random Dev Quote
+### Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
