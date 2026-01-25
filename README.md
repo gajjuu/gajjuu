@@ -27,15 +27,6 @@
 <strong>⬩➤ Fun fact:</strong><br>
 • I can deploy a microservice faster than I can decide what coffee to order ☕🚀.
 </p>
-
-<p align="center">
-  <a href="https://github.com/user-attachments/files/24042057/Gajendra.s.Resume.pdf">
-    <img src="https://img.shields.io/badge/📄_Resume-4C8EDA?style=for-the-badge&logo=readthedocs&logoColor=white" 
-         width="300" />
-  </a>
-</p>
-
-
   
   <td width="35%" valign="top" align="center" style="padding-left:20px;">
 
